@@ -1,0 +1,19 @@
+.home{
+    height: auto;
+}
+
+.coverImg{
+    width: 100%;
+    height: 65vh;
+    mask-image: linear-gradient(to bottom, rgba(0 ,0,0,1), rgba(0,0,0,0) ) ;
+    margin-bottom: -150px;
+    z-index: -1;
+    margin-top: -20px;
+} 
+
+.home_row{
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    z-index: 1;
+}

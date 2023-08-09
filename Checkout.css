@@ -1,0 +1,19 @@
+.checkout{
+    display: flex;
+    color: white;
+  }
+  
+  .checkout_title{
+    font-size: 17px;
+    font-weight: 800;
+  }
+  
+  .Checkout_addimage{
+      display: flex;
+  }
+  
+  .checkout_pic{
+      width: 100%;
+      height: 40vh;
+      
+  }
